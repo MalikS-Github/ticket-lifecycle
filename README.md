@@ -89,7 +89,7 @@ Step 6: Log out by going to localhost/osTicket/scp/index.php.
 
 <p>
 <p align="center"> 
-<img width="654" alt="Step 7" src="https://github.com/user-attachments/assets/bc8beb65-fa7a-43d0-91fd-728681fb6c9c">
+<img width="818" alt="Step 7" src="https://github.com/user-attachments/assets/838e8d92-426d-41ff-b696-10ddbea571e9">
 </p>
 <p>
 Step 7: Log in as Agent 1, created in the previous part of the lab.
@@ -158,10 +158,9 @@ Step 13: Leave a reply outlining the course of action taken to solve the ticket,
 <img width="564" alt="Step 14-1" src="https://github.com/user-attachments/assets/99019edd-d2bc-4972-9ad9-0b219f488faa">
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_f496fe4cf86947ed9905c1ae63db1793~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-Step 14: Apply the same process to resolve subsequent support tickets, such as Ticket 2 and Ticket 3.
+Step 14: Apply the same process to resolve subsequent support tickets.
 </p>
 <br />
 
@@ -174,5 +173,3 @@ Step 14: Apply the same process to resolve subsequent support tickets, such as T
 Step 15: Provided that all the steps were executed accurately, the support ticket dashboard will be cleared of all support tickets.
 </p>
 <br />
-
-<p align="center">📜 <b><i>A good example has twice the value of good advice. ~ Albert Schweitzer</b></i> 🎯</p>
